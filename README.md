@@ -55,7 +55,7 @@ This code calculates the contextual loss between two feature maps (feature_map1 
 
 The Contexual loss function helped our model train better, increasing the mAP. While the channel attention model led to better segmentation reults in the images and the model could predict with more confidence. The before and after results are as shown below: 
 
-**Before**
+# BEFORE
 
 ![before1 CV](https://github.com/ankushsingh999/Real-time-instance-segmentation/assets/64325043/167c05be-7264-469d-98a6-84b538c74b4c)
 
@@ -64,7 +64,7 @@ The Contexual loss function helped our model train better, increasing the mAP. W
 ![before3 CV](https://github.com/ankushsingh999/Real-time-instance-segmentation/assets/64325043/5e6da129-d4ea-451c-b1a0-49ab9e517baf)
 
 
-**After**
+# AFTER
 
 ![WPI CV](https://github.com/ankushsingh999/Real-time-instance-segmentation/assets/64325043/55999f35-e92c-45e1-afdc-54fb855f2e86)
 
