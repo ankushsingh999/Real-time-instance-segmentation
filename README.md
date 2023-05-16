@@ -57,19 +57,19 @@ The Contexual loss function helped our model train better, increasing the mAP. W
 
 **Before**
 
-![image](https://github.com/ankushsingh999/Real-time-instance-segmentation/assets/64325043/ee210f8d-13c8-41fb-9b1e-931651471589)
+![before1 CV](https://github.com/ankushsingh999/Real-time-instance-segmentation/assets/64325043/167c05be-7264-469d-98a6-84b538c74b4c)
 
-![image](https://github.com/ankushsingh999/Real-time-instance-segmentation/assets/64325043/3c9c132a-f997-46f1-ab70-f13d68350b0f)
+![before2 CV](https://github.com/ankushsingh999/Real-time-instance-segmentation/assets/64325043/dc5f010b-f35d-447e-9acb-b8b5485d9481)
 
-![image](https://github.com/ankushsingh999/Real-time-instance-segmentation/assets/64325043/1b525d4a-3ae3-42b4-83d9-e7c72db8cfda)
+![before3 CV](https://github.com/ankushsingh999/Real-time-instance-segmentation/assets/64325043/5e6da129-d4ea-451c-b1a0-49ab9e517baf)
 
 
 **After**
 
-![image](https://github.com/ankushsingh999/Real-time-instance-segmentation/assets/64325043/44df7328-e6c2-4fc2-9fc2-932b4c767225)
+![WPI CV](https://github.com/ankushsingh999/Real-time-instance-segmentation/assets/64325043/55999f35-e92c-45e1-afdc-54fb855f2e86)
 
-![image](https://github.com/ankushsingh999/Real-time-instance-segmentation/assets/64325043/5a31b221-79c9-4a0b-ad3d-6df2b403f3c9)
+![London CV](https://github.com/ankushsingh999/Real-time-instance-segmentation/assets/64325043/93562c25-d9c0-4ee2-9deb-a5c7920c1bdd)
 
-![image](https://github.com/ankushsingh999/Real-time-instance-segmentation/assets/64325043/1941e46e-e68c-4c04-8694-d0f8a0a6bbfe)
+![Night CV](https://github.com/ankushsingh999/Real-time-instance-segmentation/assets/64325043/beda0698-3add-4bd4-b5e8-7551e3713e1d)
 
 
