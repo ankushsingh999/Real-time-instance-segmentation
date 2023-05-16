@@ -72,4 +72,10 @@ The Contexual loss function helped our model train better, increasing the mAP. W
 
 ![Night CV](https://github.com/ankushsingh999/Real-time-instance-segmentation/assets/64325043/beda0698-3add-4bd4-b5e8-7551e3713e1d)
 
+# Real Time Instance Segmentation on Videos:
 
+***Achieved 18.1 fps on videos***
+
+***We acknowledge that this video has been sourced from the public domain and has been used by us to test our instance segmentation network. We do not claim any ownership or credit for its content.***
+
+![ezgif com-video-to-gif](https://github.com/ankushsingh999/Real-time-instance-segmentation/assets/64325043/1bef30a0-8df2-401e-ab22-1303e70ea9dc)
