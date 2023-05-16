@@ -9,7 +9,7 @@ Implemented channel attention model for instance segmentation, which leverages c
 #  Channel Attention Model
 
 The channel attention model used is inspired and referenced from the paper "Squeeze-and-Excitation Networks" by Jie Hu, Li Sh en, and Gang Sun.
-The SE block offers a straightforward and lightweight attention mechanism that can be easily implemented into different convolutional neural network (CNN) designs to increase their performance. It is meant to adaptively recalibrate feature maps in a channel-wise way.
+The SE block offers a straightforward and light weight attention mechanism that can be easily implemented into different convolutional neural network (CNN) designs to increase their performance. It is meant to adaptively recalibrate feature maps in a channel-wise way.
 
 There are four primary stages in the YOLACT architecture, which uses a modified ResNet as its backbone, and they are layer 1, layer 2, layer 3, and layer 4. The phases of the ResNet architecture are made to gradually extract higher-level features from the input image. The decision to add four channel attention tiers was primarily made to match the ResNet backbone's stage count.
 
