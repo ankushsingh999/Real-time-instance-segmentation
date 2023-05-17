@@ -79,3 +79,12 @@ The Contexual loss function helped our model train better, increasing the mAP. W
 ***We acknowledge that this video has been sourced from the public domain and has been used by us to test our instance segmentation network. We do not claim any ownership or credit for its content.***
 
 ![ezgif com-video-to-gif](https://github.com/ankushsingh999/Real-time-instance-segmentation/assets/64325043/1bef30a0-8df2-401e-ab22-1303e70ea9dc)
+
+# Citation
+
+@inproceedings{yolact-iccv2019,
+  author    = {Daniel Bolya and Chong Zhou and Fanyi Xiao and Yong Jae Lee},
+  title     = {YOLACT: {Real-time} Instance Segmentation},
+  booktitle = {ICCV},
+  year      = {2019},
+}
